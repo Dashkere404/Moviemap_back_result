@@ -9,3 +9,6 @@ googletrans==4.0.2
 pydantic==1.8.2
 gdown==5.2.0
 gensim==4.3.3
+gunicorn==23.0.0
+uvicorn[standart]==0.34.2
+pyarrow==20.0.0
